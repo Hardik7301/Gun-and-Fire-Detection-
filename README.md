@@ -33,9 +33,9 @@ python yolo.py --play_video True --video_path videos/fire1.mp4
 
 [Dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
 
-Training done on google collab - [Jupyter notebook](https://colab.research.google.com/drive/1rtBmGPgYQGwpAPkcqqgb_RE6fZj89ceb?usp=sharing)
+Training done on google collab - [Jupyter notebook](https://colab.research.google.com/drive/1sWzO-TRV0AnxJq7MX8f5hczOMmI4TV2l?authuser=5)
 
-Demo: [Youtube](https://www.youtube.com/watch?v=KUrOOUEtYzo)
+
 
 ### Paper
 [Fire and Gun Violence based Anomaly Detection System Using Deep Neural Networks](https://ieeexplore.ieee.org/document/9155625) <br>
